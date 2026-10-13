@@ -1,3 +1,7 @@
+### Presentado por: Cristian Mauricio Ortiz Cano, Harold Andres Camacho Sosa, Itzel Nayat Remolina González, Juan Gabriel Cuenca Cortes.
+
+---
+
 # Punto 1: Sucesor de un valor en un árbol binario ordenado
 
 Entrega final, Semana 7. Módulo: Estructuras de Datos.
